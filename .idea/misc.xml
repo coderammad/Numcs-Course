@@ -1,0 +1,75 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_automata.xml" value="0.1" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_backwarddifferentiation.xml" value="0.33" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_backwardintergraion.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_backwardinterpolation.xml" value="0.5" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_bannerads.xml" value="0.22" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_calculus.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_concatenation_complement.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_demorgan_law.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_dfa_transitiontable.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_eular.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_forward_differentiation.xml" value="0.2" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_forward_integration.xml" value="0.25" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_forwardint.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_forwardinterpolation.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_g.xml" value="0.16576086956521738" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_google.xml" value="0.1671195652173913" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_googlesignin.xml" value="0.1671195652173913" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_guassemilmnation.xml" value="0.1526268115942029" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_improved_eular.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_jacobi.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_kleenetheorm.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_langrange_interpolation.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_lec02.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_lec03.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_lec1.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_listviewnumcs.xml" value="0.1" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_login.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_main.xml" value="0.1490036231884058" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_mealy_machine.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_modified_eular.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_moore_machine.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_newton_divider_difference.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_newton_rahpsonmethod.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_newton_raphson.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_recussive.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_regular.xml" value="0.1852355072463768" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_report.xml" value="0.1671195652173913" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_rk4.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_secantmethod.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_seidal.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_show_images.xml" value="0.16666666666666666" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_show_numcs_images.xml" value="0.33" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_signout.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_signup.xml" value="0.17239583333333333" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_simpson.xml" value="0.21776155717761558" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_splash.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_topic_name.xml" value="0.16666666666666666" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_trapozeidal.xml" value="0.25" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_unionintrsec.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_userlist.xml" value="0.1671195652173913" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/activity_withoutlamda_withlamda.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/item.xml" value="0.1671195652173913" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/items.xml" value="0.13114754098360656" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/list_automata.xml" value="0.1" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/list_calculus.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/list_numcs.xml" value="0.17391304347826086" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/layout/list_row.xml" value="0.16666666666666666" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/menu/menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/menu/menu1.xml" value="0.18645833333333334" />
+        <entry key="..\:/StudentCourseGuide/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1915" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

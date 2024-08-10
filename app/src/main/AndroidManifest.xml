@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.applicationname.studentcourseguide">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudentCourseGuide"
+        tools:targetApi="33">
+        <activity
+            android:name="com.applicationname.studentcourseguide.Bannerads"
+            android:exported="true">
+
+        </activity>
+        <activity android:name="com.applicationname.studentcourseguide.contactus"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name="com.applicationname.studentcourseguide.Listviewnumcs"
+            android:exported="false"
+
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.rk4"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.ImprovedEular"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.ModifiedEular"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Eular"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Simpson"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Trapozeidal"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.backwarddifferentiation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.forwardint"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Seidal"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Jacobi"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.newton_Divider_difference"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.LangrangeInterpolation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Backwardinterpolation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Forwardinterpolation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Guassemilmnation"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Secantmethod"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Newton_Raphson"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.show_numcs_images"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.applicationname.studentcourseguide.Splash"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5465386855830860~3697003864"/>
+
+    </application>
+
+</manifest>
